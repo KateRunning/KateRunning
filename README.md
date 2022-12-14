@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello! 👋
+I'm a front-end developer, based in Minneapolis, MN.  :woman_technologist:
+
+When I'm not coding, I enjoy knitting :yarn: and spending time in nature :evergreen_tree:
+
+📫 How to reach me:  
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kate-running/">
+    <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logocolor=white&style=for-the-badge"/>
+  </a>
+</div>
 
 <!--
 **KateRunning/KateRunning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
